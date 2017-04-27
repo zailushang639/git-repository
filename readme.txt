@@ -14,7 +14,7 @@
 \f1 \cf2 \cb3 \expnd0\expndtw0\kerning0
 Git 
 \f2\b \cf4 is
-\f1\b0 \cf2  a version control system.\
+\f1\b0 \cf2  a distributed version control system.\
 Git 
 \f2\b \cf4 is
 \f1\b0 \cf2  free software.}
